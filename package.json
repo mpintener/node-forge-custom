@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for node-forge",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/node-forge",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/mpintener/node-forge-custom.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "version": "0.7.2"
+}
